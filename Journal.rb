@@ -5,4 +5,4 @@ def bdd(journal)
 nbe = journal.length
 puts "#{nbe}"
 end
-bdd(journal)
+bdd(journal);
